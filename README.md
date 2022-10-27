@@ -1,0 +1,2 @@
+This is only a folder with a collection of exercise about distributed programming.
+The "project" in this folder are just for learning how to use ditributed technologies. So, they are not to be considered "complete".
